@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/NotificationSystem/bin/Debug/net7.0
+/NotificationSystem/obj/Debug/net7.0
+/NotificationSystem/obj
+/SocialMediaNotificationSystem.Tests/bin/Debug/net7.0
+/SocialMediaNotificationSystem.Tests/obj
+.vs/NotificationSystem/FileContentIndex/28f6bfbf-5753-4501-aad4-a0c86a089c25.vsidx
+.vs/NotificationSystem/v17/.suo

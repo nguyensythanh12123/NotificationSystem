@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotificationSystem", "NotificationSystem\NotificationSystem.csproj", "{78978047-6E31-41CA-B881-A7993E068D04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocialMediaNotificationSystem.Tests", "SocialMediaNotificationSystem.Tests\SocialMediaNotificationSystem.Tests.csproj", "{2888DC0D-E34B-461A-8833-A13666DA5803}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78978047-6E31-41CA-B881-A7993E068D04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78978047-6E31-41CA-B881-A7993E068D04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78978047-6E31-41CA-B881-A7993E068D04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78978047-6E31-41CA-B881-A7993E068D04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2888DC0D-E34B-461A-8833-A13666DA5803}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2888DC0D-E34B-461A-8833-A13666DA5803}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2888DC0D-E34B-461A-8833-A13666DA5803}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2888DC0D-E34B-461A-8833-A13666DA5803}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E6FC1D4-C584-487C-896B-88520D8274CE}
+	EndGlobalSection
+EndGlobal
